@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://interglob.github.io/interglob/sitemap.xml
