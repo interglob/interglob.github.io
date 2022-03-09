@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Soluciones Interglob",
     "description": "",
-    "home_page_url": "https://interglob.github.io/interglob",
-    "feed_url": "https://interglob.github.io/interglob/feed.json",
+    "home_page_url": "https://interglob.github.io",
+    "feed_url": "https://interglob.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Adrian Mora Jiménez"
